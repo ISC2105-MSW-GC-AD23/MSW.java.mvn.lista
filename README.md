@@ -61,7 +61,7 @@ mvn com.appland:appmap-maven-plugin:prepare-agent test
 ```
 Dar clic en el botón `Explore AppMaps` que se muestra en ventana emergente.
 
-Para una experiencia local: abrir el CodeSpace en `VSCode desktop`, autentificarse en `AppMap` con su cuenta de `GitHub` y revisar el Diagrama de Secuencia en la opción `Explorw AppMaps`.
+Para una experiencia local: abrir el CodeSpace en `VSCode desktop`, autentificarse en `AppMap` con su cuenta de `GitHub` y revisar el Diagrama de Secuencia en la opción `Explore AppMaps`.
 
 ## Comandos Git-Cambios y envío a Autograding
 
