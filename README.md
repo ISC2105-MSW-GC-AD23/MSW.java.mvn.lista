@@ -37,7 +37,7 @@ mvn -f app test
 ```
 ### Probar 1 test
 ```
-mvn -f app test -Dtest="AppTest#shouldAnswerWithTrue" 
+mvn -f app test -Dtest="AppTest#testingList" 
 ```
 ### Ejecutar App
 ```
